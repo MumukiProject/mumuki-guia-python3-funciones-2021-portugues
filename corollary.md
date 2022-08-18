@@ -1,3 +1,3 @@
-¡Felicitaciones! :tada:
+Parabéns! :tada:
 
-En esta lección aprendiste a definir funciones que, a partir de su reutilización, nos ayudan a evitar la repetición de lógica. También viste la diferencia entre parámetros y argumentos, elementos esenciales para poder hacer lo mismo con distintos valores. :raised_hands:
+Nesta lição você aprendeu a definir funções que, a partir da sua reutilização, nos ajudam a evitar a repetição de lógica. Também viu a diferença entre parâmetros e argumentos, elementos essenciais para poder fazer o mesmo com diferentes valores. :raised_hands:
