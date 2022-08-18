@@ -1,0 +1,3 @@
+Agora sim! Sem erros e muito mais fácil de entender. Mas não tínhamos dito que em Python nada resolvia o problema de saber se uma string é mais longa que outra? Então, o que aconteceu? Mentimos? Foi mágica?
+
+Vamos desvendar o mistério...
