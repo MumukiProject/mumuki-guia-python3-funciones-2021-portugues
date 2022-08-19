@@ -12,6 +12,6 @@ True
 > Agora é a sua vez! Verifique usando a consola se:
 >
 > * `"Bahía de Samborombón"` é mais comprido que `"Sierra Grande"`
-> * '"Patagônia"' é mais comprido que `"Cuyo"`
+> * `"Patagônia"` é mais comprido que `"Cuyo"`
 > * `"Tierra del Fuego"`é mais comprido que `"Santiago del Estero"`
 
