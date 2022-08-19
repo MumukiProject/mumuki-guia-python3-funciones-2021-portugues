@@ -3,4 +3,4 @@ rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     error_contains: IndentationError
-  then: no olvides de tabular mediante la tecla  `Tab ↹` la última línea
+  then: não esqueça de fazer a tabulação da última linha por meio da tecla  `Tab ↹`
