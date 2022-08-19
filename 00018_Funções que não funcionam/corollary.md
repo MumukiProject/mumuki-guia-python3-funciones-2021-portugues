@@ -1,7 +1,7 @@
 Muito bem! Talvez você tenha notado que quando Python não pode entender seu código, ele gera mensagens como essas:
 
 ```
-  File "solução.py", ...
+  File "solucion.py", ...
 	def metade(um_numero)
                    	^
 SyntaxError: invalid syntax
