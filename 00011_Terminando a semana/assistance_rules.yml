@@ -4,4 +4,4 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     only_these_tests_failed:
     - El sabado es fin de semana
-  then: 'Ojo, fijate que `"sábado"` se escribe con tilde :eyes:'
+  then: 'Atenção, observe que `"sábado"` é escrito com acento :eyes:'
