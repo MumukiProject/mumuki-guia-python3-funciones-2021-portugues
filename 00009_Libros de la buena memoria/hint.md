@@ -1,1 +1,0 @@
-Como vimos anteriormente, en Python contamos con operadores como `>=`, `>`, `<`,`<=` que nos dicen si dos valores son  mayores-o-iguales, mayores, menores, etc. Los vamos a usar bastante :grin:.
