@@ -1,0 +1,3 @@
+---
+equal: Não, porque na função `é_biblioteca`, `lugar` é um parâmetro do tipo string,
+  mas os parâmetros são nomes que não devem estar entre aspas.
