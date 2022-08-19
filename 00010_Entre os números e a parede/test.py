@@ -18,18 +18,18 @@
     self.assertTrue(esta_entre(2, 0, 100))
 
   def test_esta_fuera_de_rango_0_1_10_es_False(self):
-    self.assertTrue(esta_fuera_de_rango(0, 1, 10))
+    self.assertTrue(esta_fora_de_alcance(0, 1, 10))
 
   def test_esta_fuera_de_rango_12_1_10_es_True(self):
-    self.assertTrue(esta_fuera_de_rango(12, 1, 10))
+    self.assertTrue(esta_fora_de_alcance(12, 1, 10))
 
   def test_esta_fuera_de_rango_200_54_112_es_True(self):
-    self.assertTrue(esta_fuera_de_rango(200, 54, 112))
+    self.assertTrue(esta_fora_de_alcance(200, 54, 112))
 
   def test_esta_fuera_de_rango_67_0_100_es_False(self):
-    self.assertFalse(esta_fuera_de_rango(67, 0, 100))
+    self.assertFalse(esta_fora_de_alcance(67, 0, 100))
 
   def test_esta_fuera_de_rango_2_0_100_es_False(self):
-    self.assertFalse(esta_fuera_de_rango(2, 0, 100))
+    self.assertFalse(esta_fora_de_alcance(2, 0, 100))
 
 
