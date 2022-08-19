@@ -1,5 +1,5 @@
-Def mitad(un_numero)
+Def metade(um_numero)
 return un_numero / 2
 
-def suma_longitudes un_string, otro_string): 
-  return len(un_string) + len(otro_string) 
+def soma_longitudes uma_string, outra_string): 
+  return len(uma_string) + len(outra_string) 
