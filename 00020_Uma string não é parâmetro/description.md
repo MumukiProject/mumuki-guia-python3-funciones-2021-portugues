@@ -3,7 +3,7 @@ Como vimos, uma string pode ser passada como argumento de uma função...
 ```python
 ム e_biblioteca("Biblioteca De Babel")
 True
-ム e_biblioteca("Biblioteca Do Congresso")
+ム e_biblioteca("Biblioteca Nacional do Brasil")
 True
 ム e_biblioteca("Teatro Colón")
 False
