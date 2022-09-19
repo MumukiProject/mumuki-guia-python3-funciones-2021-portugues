@@ -1,14 +1,14 @@
 
-  def test_longitud_nombre_completo_Cosme_Fulanito(self):
+  def test_longitude_nome_completo_Cosme_Fulanito(self):
     self.assertEqual(longitude_nome_completo("Cosme", "Fulanito"), 14)
 
-  def test_longitud_nombre_completo_John_Snow(self):
+  def test_longitude_nome_completo_John_Snow(self):
     self.assertEqual(longitude_nome_completo("John", "Snow"), 9)
 
-  def test_longitud_nombre_completo_Juana_Azurduy(self):
+  def test_longitude_nome_completo_Juana_Azurduy(self):
     self.assertEqual(longitude_nome_completo("Juana", "Azurduy"), 13)
     
-  def test_no_falta_contemplar_el_espacio(self):
+  def test_nao_falta_contemplar_o_espaco(self):
     resultado = False
     try:
       resultado = [
@@ -18,6 +18,6 @@
     except:
       pass
     if resultado:
-      self.fail("¡Te falta contemplar el espacio!")
+      self.fail("Você precisa contemplar o espaço!")
     
       
