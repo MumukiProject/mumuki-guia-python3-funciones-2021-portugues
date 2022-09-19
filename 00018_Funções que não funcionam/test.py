@@ -11,10 +11,10 @@
     self.assertEqual(metade(10), 5)
     
 
-  def test_soma_comprimentos_de_olá_e_mundo_é_9(self):
+  def test_soma_comprimentos_de_ola_e_mundo_a_9(self):
     self.assertEqual(soma_longitudes("hola", "mundo"), 9)
 
 
-  def test_suma_longitudes_de_llueva_y_cafe_es_6(self):
+  def test_soma_comprimentos_de_chova_e_cafe_e_6(self):
     self.assertEqual(soma_longitudes("llueva", "café"), 10)
 
