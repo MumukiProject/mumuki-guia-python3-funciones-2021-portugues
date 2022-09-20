@@ -8,7 +8,7 @@
   def test_longitude_nome_completo_Juana_Azurduy(self):
     self.assertEqual(longitude_nome_completo("Juana", "Azurduy"), 13)
     
-  def test_nao_falta_contemplar_o_espaco(self):
+  def test_não_falta_contemplar_o_espaço(self):
     resultado = False
     try:
       resultado = [
