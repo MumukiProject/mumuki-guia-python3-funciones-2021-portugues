@@ -1,4 +1,4 @@
-Podemos combinar estas funções da mesma forma que fazíamos com os operadores e funções que já vinham em Python? Com certeza! :heart_eyes: Em outras palavras, _podemos invocar funções dentro de definições_. Por exemplo:
+Podemos combinar as funções que criamos da mesma forma que fazíamos com os operadores e as funções que já vinham em Python? Com certeza! :heart_eyes: Em outras palavras, _podemos invocar funções dentro de definições_. Por exemplo:
 
 ```python
 def dobro(numero):
@@ -21,7 +21,7 @@ def seguinte_do_dobro(numero):
   return seguinte(dobro(numero))
 ```
 
-> Vamos ver se ficou claro; defina as seguintes funções:
+> Vamos ver se ficou claro. Defina as seguintes funções:
 >
 > * `anterior`: escolhe um número e retorna esse número menos um.
 > * `triplo`: devolve o triplo de um número.
