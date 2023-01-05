@@ -23,5 +23,5 @@ A definição dessa função é parecida com a anterior? Por que será?
 >   return len(uma_string) > len(outra_string)
 > ```
 >
-> ...e responda o que eles têm em comum.
+> ...e responda o que elas têm em comum.
 
