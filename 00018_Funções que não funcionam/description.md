@@ -1,6 +1,6 @@
 E o que acontece quando queremos definir uma função, mas não cumprimos as regras que acabamos de ver :speak_no_evil:? O computador se recusará a aprender a tarefa que acabamos de ensinar!
 
-Isso é o que se conhece como um _erro de sintaxe_, que representaremos por meio do símbolo <i class="fas fa-minus-circle text-broken"></i>. Enquanto aprendemos a programar vamos encontrar estes tipos de erros muitas vezes, mas não se desespere! Se lemos com paciência e atenção nosso código conseguiremos resolvê-lo.
+Isso é o que se conhece como um _erro de sintaxe_, que representaremos por meio do símbolo <i class="fas fa-minus-circle text-broken"></i>. Enquanto aprendemos a programar vamos encontrar estes tipos de erros muitas vezes, mas não se desespere! Se lemos com paciência e atenção nosso código conseguiremos resolvê-los.
 
 > Vamos ver se entendemos! Desta vez definimos no editor duas funções, mas não garantimos que estejam bem feitas. :zipper_mouth:
 >
