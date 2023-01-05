@@ -1,6 +1,6 @@
 O momento chegou! Agora vamos escrever nossa primeira função do zero.
 
-Mas não se desespere :scream:: se alguma coisa não sair bem, lembre que você pode enviar quantas vezes sejam necessárias, sempre pode consultar os exercícios anteriores. E claro, a ajuda! :wink:
+Mas não se desespere :scream:: se alguma coisa não sair bem, lembre que você pode enviar quantas vezes sejam necessárias, sempre pode consultar os exercícios anteriores e, claro, a ajuda! :wink:
 
 
 > Defina a função `e_hora_da_verdade`, que utilize uma hora e nos diga se são  `12` horas e tente no console:
