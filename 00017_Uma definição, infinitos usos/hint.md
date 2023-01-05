@@ -1,0 +1,8 @@
+não esqueça de copiar a definição **exatamente** como aparece no enunciado:
+
+```python
+def e_mais_longo_que(uma_string, outra_string):
+  return len(uma_string) > len(outra_string)
+```
+
+Observe que ao lado do código tem um botão <i class="far fa-fw fa-copy"></i> que  permitirá copiar automaticamente.
