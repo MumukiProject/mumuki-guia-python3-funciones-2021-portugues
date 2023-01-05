@@ -24,9 +24,9 @@ Por exemplo, quando invocamos `metade` com o argumento `4`, através deste "bura
 5
 ```
 
-...através do parâmetro `um_numero` chegará a `metade` o `10` com o que invocamos a função. E novamente, irá dividir por dois e retornar o `5`.    
+...através do parâmetro `um_numero` chegará à `metade` o `10` com o que invocamos a função. E novamente, irá dividir por dois e retornar o `5`.    
 
-> Mais devagar! Vamos voltar para a função do exercício anterior...
+> Mas devagar! Volte para a função do exercício anterior...
 >
 > ```python
 > def soma_longitudes(uma_string, outra_string):
