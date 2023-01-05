@@ -1,4 +1,4 @@
-Tenha em mente que o ponto de exclamação  `"!"` (da mesma maneira que os espaços e outros sinais de pontuação) são strings e que as strings podem se concatenar usando o operador `+`.
+Tenha em mente que o ponto de exclamação  `"!"` (da mesma maneira que os espaços e outros sinais de pontuação) são strings e que as strings podem ser concatenadas usando o operador `+`.
 
 Por exemplo:
 
