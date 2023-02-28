@@ -8,9 +8,9 @@ def e_pergunta(oracao):
 ...a qual podemos usar assim:
 
 ```python
-ム e_pergunta("Que horas são?")
+ムe_pergunta("Que horas são?")
 True
-ム e_pergunta("Nesta casa obedecemos as leis da termodinâmica!")
+ムe_pergunta("Nesta casa obedecemos as leis da termodinâmica!")
 False
 ```
 
