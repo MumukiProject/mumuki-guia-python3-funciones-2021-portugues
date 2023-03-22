@@ -1,4 +1,4 @@
-Muito bem! Talvez você tenha notado que quando Python não pode entender seu código, ele gera mensagens como essas:
+Muito bem! :face_with_symbols_over_mouth: Talvez você tenha notado que quando Python não pode entender seu código, ele gera mensagens como essas:
 
 ```
   File "solucion.py", ...
