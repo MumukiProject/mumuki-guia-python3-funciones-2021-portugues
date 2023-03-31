@@ -1,0 +1,9 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - anterior_do_triplo Not:Uses:anterior_do_triplo
+  then: "você está tentando definir `anterior_do_triplo` usando... `anterior_do_triplo`!
+    \U0001F635 Isso pode ser muito confuso para o computador, então como regra prática
+    nesses primeiros exercícios, **nunca** invoque uma função dentro dela mesma.\U0001F44D\U0001F44D"
