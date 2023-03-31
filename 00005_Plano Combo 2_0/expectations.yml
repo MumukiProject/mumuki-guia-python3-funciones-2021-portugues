@@ -1,0 +1,41 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:anterior
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:anterior
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: anterior
+  inspection: Returns
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: anterior
+  inspection: UsesMath
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:triplo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:triplo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: triplo
+  inspection: Returns
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: triplo
+  inspection: UsesMath
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:anterior_do_triplo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:anterior_do_triplo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: anterior_do_triplo
+  inspection: Returns
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: anterior_do_triplo
+  inspection: Calls:anterior
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: anterior_do_triplo
+  inspection: Calls:triplo
