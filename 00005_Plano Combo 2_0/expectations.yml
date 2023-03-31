@@ -39,3 +39,12 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: anterior_do_triplo
   inspection: Calls:triplo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: anterior_do_triplo
+  inspection: Not:Uses:anterior_do_triplo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Intransitive:anterior_do_triplo
+  inspection: Not:UsesMinus
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Intransitive:anterior_do_triplo
+  inspection: Not:UsesMultiply
