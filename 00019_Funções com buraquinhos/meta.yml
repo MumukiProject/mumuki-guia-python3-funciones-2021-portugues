@@ -10,17 +10,13 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`soma_longitudes` é uma função"
+- value: "`soma_longitudes` é uma função"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`soma_longitudes` tem dois parâmetros"
+- value: "`soma_longitudes` tem dois parâmetros"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`soma_longitudes` pode ser invocada com 2 argumentos"
+- value: "`soma_longitudes` pode ser invocada com 2 argumentos"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: se escrevemos `soma_longitudes("aprendendo", "programação")`, `"aprendendo"`
+- value: se escrevemos `soma_longitudes("aprendendo", "programação")`, `"aprendendo"`
     será o primeiro argumento e `"programação"`, o segundo
   checked: true
 name: Funções com buraquinhos

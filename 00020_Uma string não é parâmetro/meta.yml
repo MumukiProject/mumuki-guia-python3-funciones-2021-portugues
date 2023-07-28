@@ -10,12 +10,10 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Sim, porque na função `é_biblioteca`, `lugar` é um parâmetro do tipo string
+- value: Sim, porque na função `é_biblioteca`, `lugar` é um parâmetro do tipo string
     e devemos indicar colocando ele entre aspas.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Não, porque na função `é_biblioteca`, `lugar` é um parâmetro do tipo string,
+- value: Não, porque na função `é_biblioteca`, `lugar` é um parâmetro do tipo string,
     mas os parâmetros são nomes que não devem estar entre aspas.
   checked: true
 name: Uma string não é parâmetro

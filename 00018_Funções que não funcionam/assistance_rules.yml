@@ -1,11 +1,9 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     error_contains: IndentationError
   then: não esqueça de fazer a tabulação por meio da tecla  `Tab ↹` na última linha
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     error_contains: "^"
   then: 'veja o símbolo `^` :bulb: , para onde está apontando? O que está querendo
     dizer Python?'

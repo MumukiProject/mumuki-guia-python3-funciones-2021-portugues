@@ -1,13 +1,11 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     these_expectations_failed:
     - "* Not:Uses:startswith"
   then: ":warning: Este exercício não necessita de `str.startswith`. Informamos apenas
     como exemplo :wink:"
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     these_tests_failed:
     - No falta contemplar el espacio
   then: Parece que você não está contemplando o espaço entre os nomes; o `comprimento_nome_completo`

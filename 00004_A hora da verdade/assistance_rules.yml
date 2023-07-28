@@ -1,6 +1,5 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     error_contains: IndentationError
   then: não esqueça de fazer a tabulação da última linha por meio da tecla  `Tab ↹`

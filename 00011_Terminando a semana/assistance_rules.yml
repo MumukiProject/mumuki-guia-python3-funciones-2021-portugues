@@ -1,7 +1,6 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     only_these_tests_failed:
     - El sabado es fin de semana
   then: 'Atenção, observe que `"sábado"` é escrito com acento :eyes:'

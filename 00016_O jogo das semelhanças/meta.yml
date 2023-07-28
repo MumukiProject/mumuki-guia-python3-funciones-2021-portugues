@@ -10,22 +10,16 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Ambas começam com `def` seguido pelo nome da função
+- value: Ambas começam com `def` seguido pelo nome da função
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Ambas começam com `def` seguido pelos dois pontos
+- value: Ambas começam com `def` seguido pelos dois pontos
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Ambas têm um `return` na primeira linha
+- value: Ambas têm um `return` na primeira linha
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Ambas têm um `return` na última linha
+- value: Ambas têm um `return` na última linha
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Ambas terminam a primeira linha com dois pontos
+- value: Ambas terminam a primeira linha com dois pontos
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Ambas iniciam a segunda linha alinhada à margem
+- value: Ambas iniciam a segunda linha alinhada à margem
   checked: false
 name: O jogo das semelhanças
